@@ -1,0 +1,5 @@
+endpoint = https://localhost:9443/scim2
+scimVersion = 2
+authenticationMethod = password
+username = admin
+password = admin

@@ -1,0 +1,5 @@
+bindDN = cn=admin,cn=example_accesslog
+password = examplePass
+url = ldaps://example.accesslog.gr:636
+
+baseDN = cn=example_accesslog

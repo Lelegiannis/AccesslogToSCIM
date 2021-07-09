@@ -1,0 +1,5 @@
+endpoint = https://localhost:9443/wso2/scim
+scimVersion = 1.1
+authenticationMethod = password
+username = admin
+password = admin

@@ -1,0 +1,5 @@
+javax.persistence.jdbc.url = jdbc:mysql://localhost:3306/accesslog_to_scim?autoReconnect=true&useSSL=false
+javax.persistence.jdbc.user = root
+javax.persistence.jdbc.password = examplePass
+hibernate.c3p0.min_size = 2
+hibernate.c3p0.testConnectionOnCheckout = true

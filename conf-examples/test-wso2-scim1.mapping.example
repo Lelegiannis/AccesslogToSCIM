@@ -1,0 +1,6 @@
+userName -> accesslog::uid
+name.givenName -> accesslog::givenName;lang-en
+name.familyName -> accesslog::sn;lang-en
+#emails[0].primary -> true
+#emails[0].value -> accesslog::mail
+password -> "secret"
